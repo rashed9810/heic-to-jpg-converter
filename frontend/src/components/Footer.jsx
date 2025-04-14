@@ -1,8 +1,5 @@
-import {
-  HiOutlinePhotograph,
-  HiOutlineMail,
-  HiOutlineHeart,
-} from "react-icons/hi";
+import { HiOutlinePhotograph, HiOutlineHeart } from "react-icons/hi";
+// eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 
 const Footer = () => {
@@ -20,7 +17,7 @@ const Footer = () => {
             <p className="text-gray-400 mb-4 max-w-md">
               A modern, fast, and secure online tool to convert your HEIC/HEIF
               images
-              <br/>
+              <br />
               to JPG format without compromising quality or privacy.
             </p>
 
