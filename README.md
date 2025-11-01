@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ HEIC to JPG Converter
+#  HEIC to JPG Converter
 
 <p align="center">
   <img src="https://img.shields.io/badge/HEIC%20to%20JPG-Converter-0ea5e9?style=for-the-badge" alt="HEIC to JPG Converter"/>
@@ -31,11 +31,11 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
-This full-stack web application provides a seamless solution for converting HEIC/HEIF images (commonly used by Apple devices) to the universally compatible JPG format. Built with modern technologies including React, FastAPI, and Tailwind CSS, it offers a beautiful user interface with advanced image processing capabilities.
+This full stack web application provides an ideal solution for converting HEIC/HEIF images (commonly used by Apple devices) to the universally compatible JPG format. Built with modern technologies including React, FastAPI, and Tailwind CSS, it offers a beautiful user interface with advanced image processing capabilities.
 
-## ✨ Features
+##  Features
 
 <div align="center">
 <table>
@@ -43,7 +43,7 @@ This full-stack web application provides a seamless solution for converting HEIC
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/48/upload-to-cloud.png" width="48" height="48" alt="Upload"/><br />
       <b>Easy Upload</b><br />
-      <sub>Drag and drop or select HEIC/HEIF images with intuitive interface</sub>
+      <sub>Drag and drop or select HEIC/HEIF images with automatic interface</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/48/settings.png" width="48" height="48" alt="Advanced Options"/><br />
@@ -76,15 +76,15 @@ This full-stack web application provides a seamless solution for converting HEIC
 </table>
 </div>
 
-## 🎬 Demo
+##  Demo
 
 <div align="center">
 
-### 🌟 User Interface
+###  User Interface
 
 <img src="https://via.placeholder.com/800x450.png?text=HEIC+to+JPG+Converter+Screenshot" alt="HEIC to JPG Converter Screenshot" width="80%"/>
 
-### 🔄 Conversion Process
+###  Conversion Process
 
 1. **Upload** - Drag & drop your HEIC file
 2. **Configure** - Adjust quality and other settings
@@ -93,7 +93,7 @@ This full-stack web application provides a seamless solution for converting HEIC
 
 </div>
 
-## 🛠️ Architecture
+##  Architecture
 
 <div align="center">
 <img src="https://via.placeholder.com/800x400.png?text=HEIC+to+JPG+Converter+Architecture" alt="Architecture Diagram" width="80%"/>
@@ -130,7 +130,7 @@ This application follows a modern client-server architecture with a clear separa
 └── run-app.ps1            # PowerShell script to run the application
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 <div align="center">
 <img src="https://img.icons8.com/fluency/96/rocket.png" width="96" height="96" alt="Rocket"/>
@@ -204,7 +204,7 @@ npm run dev
 
 The frontend application will run at http://localhost:5173
 
-## 📝 How to Use
+##  How to Use
 
 <div align="center">
 <img src="https://img.icons8.com/fluency/96/user-manual.png" width="96" height="96" alt="User Manual"/>
@@ -234,7 +234,7 @@ The frontend application will run at http://localhost:5173
    - See conversion statistics (original size, converted size, compression ratio)
    - Click the "Download JPG" button to save the image
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 The backend provides the following RESTful endpoints:
 
@@ -244,7 +244,7 @@ The backend provides the following RESTful endpoints:
 | `/api/v1/convert`             | POST   | Convert HEIC/HEIF to JPG   |
 | `/api/v1/download/{filename}` | GET    | Download a converted image |
 
-## 💻 Technologies
+##  Technologies
 
 <div align="center">
 <table>
@@ -277,7 +277,7 @@ The backend provides the following RESTful endpoints:
 </table>
 </div>
 
-## 🔍 Key Features Implementation
+##  Key Features Implementation
 
 ### HEIC to JPG Conversion
 
@@ -316,11 +316,11 @@ const { getRootProps, getInputProps, isDragActive } = useDropzone({
 });
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 About the Developer
+##  About the Developer
 
 I'm a passionate Software Engineer with expertise in modern web technologies. This project demonstrates my ability to:
 
@@ -334,5 +334,4 @@ Feel free to reach out for collaboration or employment opportunities!
 ---
 
 <div align="center">
-<p>Made with ❤️ by a Passionate Developer</p>
 </div>
