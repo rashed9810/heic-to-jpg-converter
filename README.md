@@ -130,11 +130,6 @@ This application follows a modern client-server architecture with a clear separa
 └── run-app.ps1            # PowerShell script to run the application
 ```
 
-##  Getting Started
-
-<div align="center">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="96" height="96" alt="Rocket"/>
-</div>
 
 ### Prerequisites
 
@@ -203,12 +198,6 @@ npm run dev
 ```
 
 The frontend application will run at http://localhost:5173
-
-##  How to Use
-
-<div align="center">
-<img src="https://img.icons8.com/fluency/96/user-manual.png" width="96" height="96" alt="User Manual"/>
-</div>
 
 ### Step-by-Step Guide
 
